@@ -1,0 +1,31 @@
+mes,categoria,producto,unidades,ingresos
+Enero,Camisetas,Camiseta basica,180,1620.00
+Enero,Pantalones,Vaquero recto,64,1920.00
+Enero,Abrigos,Plumifero corto,41,2870.00
+Enero,Calzado,Zapatilla urbana,52,2080.00
+Enero,Accesorios,Gorro de lana,96,672.00
+Febrero,Camisetas,Camiseta basica,165,1485.00
+Febrero,Pantalones,Vaquero recto,71,2130.00
+Febrero,Abrigos,Plumifero corto,33,2310.00
+Febrero,Calzado,Zapatilla urbana,58,2320.00
+Febrero,Accesorios,Bufanda,74,592.00
+Marzo,Camisetas,Camiseta estampada,210,2520.00
+Marzo,Pantalones,Chino,88,2640.00
+Marzo,Abrigos,Cazadora vaquera,47,2350.00
+Marzo,Calzado,Zapatilla urbana,63,2520.00
+Marzo,Accesorios,Cinturon,85,850.00
+Abril,Camisetas,Camiseta estampada,245,2940.00
+Abril,Pantalones,Chino,96,2880.00
+Abril,Abrigos,Cazadora vaquera,52,2600.00
+Abril,Calzado,Sandalia,78,2340.00
+Abril,Accesorios,Gafas de sol,112,1344.00
+Mayo,Camisetas,Top de tirantes,288,2880.00
+Mayo,Pantalones,Short vaquero,134,2680.00
+Mayo,Abrigos,Chaqueta fina,29,1160.00
+Mayo,Calzado,Sandalia,126,3780.00
+Mayo,Accesorios,Gafas de sol,168,2016.00
+Junio,Camisetas,Top de tirantes,324,3240.00
+Junio,Pantalones,Short vaquero,158,3160.00
+Junio,Abrigos,Chaqueta fina,18,720.00
+Junio,Calzado,Chancla,194,2328.00
+Junio,Accesorios,Gafas de sol,203,2436.00
